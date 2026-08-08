@@ -370,8 +370,4 @@ Defines and trains the generator, discriminator, VGG19 feature extractor, advers
 
 Loads the trained model and demonstrates image reconstruction and quantitative evaluation using PSNR and MSE.
 
----
 
-## Disclaimer
-
-This repository is an academic implementation intended for learning, experimentation, and research. The current architecture should be described primarily as a **GAN-based image enhancement and restoration model** rather than a complete production-ready super-resolution system.
